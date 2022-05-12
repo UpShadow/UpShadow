@@ -30,9 +30,7 @@
   <img align="center" alt="Csharp-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="CPLUSPLUS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
   <img align="center" alt="Bootstrap-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  
   <img align="center" alt="mysql-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Postgresql-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   
@@ -50,40 +48,38 @@
   ![Snake animation](https://github.com/UpShadow/UpShadow/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<!--
+
 <table align="center">
 <tr><th>
   
-  #### Tecnologias Estudadas :nerd_face: :man_technologist:
+  #### Technologies studied :nerd_face: :man_technologist:
   
 </th><th>
   
-#### Mais Interesses Meus :books: :rocket:
+#### Future studies :books: :rocket:
 
 </th></tr>
 <tr><td>
 
-Linguagens/Tecnologias/Ferramentas/...   | |
+Languages/Technologies/Tools/...   | |
 --------- | ------
+JavaScript/Node.JS | :heavy_check_mark: |
+TypeScript | :heavy_check_mark: |
+React | :heavy_check_mark: |
+HTML5 | :heavy_check_mark: |
+CSS3 | :heavy_check_mark: |
+C Sharp | :heavy_check_mark: |
 C/C++ | :heavy_check_mark: |
 Java | :heavy_check_mark: |
 Java Web | :heavy_check_mark: |
-PHP | :heavy_check_mark: |
-JavaScript/Node.JS | :heavy_check_mark: |
-MongoDB | :heavy_check_mark: |
-Firebase | :heavy_check_mark: |
-HTML5 | :heavy_check_mark: |
-CSS3 | :heavy_check_mark: |
-jQuery | :heavy_check_mark: |
+MySQL | :heavy_check_mark: |
+PostgreSQL | :heavy_check_mark: |
 Bootstrap | :heavy_check_mark: |
-Bulma | :heavy_check_mark: |
-Jest | :heavy_check_mark: |
-Git | :heavy_check_mark: |
 
 </td>
 <td>
   
-Técnicas/Tecnologias/Ferramentas/...   | |
+Techniques/Technologies/Tools/...   | |
 --------- | ------
 Design thinking | :hourglass_flowing_sand: |
 UI Design | :hourglass_flowing_sand: |
@@ -91,15 +87,13 @@ UX Design Web | :hourglass_flowing_sand: |
 Figma | :hourglass_flowing_sand: |
 Adobe UX | :hourglass_flowing_sand: |
 Métodos Ágeis | :hourglass_flowing_sand: |
-Electron | :hourglass_flowing_sand: |
 Deno | :hourglass_flowing_sand: |
 Vue.JS | :hourglass_flowing_sand: |
 SASS | :hourglass_flowing_sand: |
 Wordpress | :hourglass_flowing_sand: |
-Mundo Linux | :hourglass_flowing_sand: |
 Perfomace Web | :hourglass_flowing_sand: |
 Designer Patterns | :hourglass_flowing_sand: |
 
 </td>
 </tr> 
-</table> -->
+</table>
