@@ -3,7 +3,8 @@
 - 🌱 Studying React, CSS, JavaScript
 
 ## <img src="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width="25"> About Me
-> I'm Carlos, I'm 20 years old, a student of information systems at Unoeste.
+> My name is Carlos, I'm 20 years old, student of information systems at Unoeste.
+> I'm looking to improve my knowledge, always studying new technologies.
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> My Statistics
 <div align="center">
