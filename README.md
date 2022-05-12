@@ -1,6 +1,6 @@
-## Olá, Seja bem-vindo 👋 
+## Hello welcome 👋 
 
-- 🌱 Estudando React
+- 🌱 Studying React, CSS, JavaScript
 
 ## <img src="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width="25"> About Me
 > I'm Carlos, I'm 20 years old, a student of information systems at Unoeste.
