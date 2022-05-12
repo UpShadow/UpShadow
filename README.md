@@ -2,6 +2,10 @@
 
 - 🌱 Estudando React
 
+## <img src="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width="25"> About Me
+> I'm Carlos, I'm 20 years old, a student of information systems at Unoeste.
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> My Statistics
 <div align="center">
   <a href="https://github.com/UpShadow">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=UpShadow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
