@@ -1,6 +1,6 @@
 ## Hello welcome 👋 
 
-- 🌱 Studying React, CSS, JavaScript.
+- 🌱 Studying React, NodeJS, CSS, JavaScript.
 
 ## <img src="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width="25"> About Me:
 > My name is Carlos, I'm 23 years old, and I'm graduated in information systems from Unoeste. 
